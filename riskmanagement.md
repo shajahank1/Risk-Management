@@ -1429,7 +1429,7 @@ Here's an example of a risk matrix for a software development project:
 
 Probability Scale: 1 (Low) to 5 (High)
 Impact Scale: 1 (Low) to 5 (High)
-Risk	Probability (1-5)	Impact (1-5)	Quadrant
+Risk	Probability (1-5)	Impact (1-5)	Quadrant  
 Data breach due to weak security	4	5	High Priority
 Delay in delivery from a vendor	3	3	Medium Priority
 Minor bugs in code	5	2	Medium Priority
@@ -1457,13 +1457,13 @@ Impact Scale: 1 (Low) to 5 (High)
 - Risk of Data Breach due to inadequate security measures.
 - Risk of Low User Adoption due to poor market research.
 - Risk of Technical Debt due to rushed development to meet deadlines.
-### Sample Data in a Risk Matrix:
-**Risk Description	        Probability	Impact	Quadrant**
-   Delay in Software Release	    3	    4	        High
-   Overbudget	                    2	    5	        Medium
-   Data Breach                	  4	    5	        High
-   Low User Adoption	            2	    3	        Medium
-   Technical Debt               	4	    4        	High
+### Sample Data in a Risk Matrix:  
+**Risk Description	        Probability	Impact	Quadrant**  
+   Delay in Software Release	     3	    4	        High  
+   Overbudget	                    2	    5	        Medium  
+   Data Breach                	  4	    5	        High  
+   Low User Adoption	              2	    3	        Medium  
+   Technical Debt                  4	    4        	High  
 ## Analysis:
 #### High Priority (High Probability/High Impact):
 
