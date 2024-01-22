@@ -1458,12 +1458,13 @@ Impact Scale: 1 (Low) to 5 (High)
 - Risk of Low User Adoption due to poor market research.
 - Risk of Technical Debt due to rushed development to meet deadlines.
 ### Sample Data in a Risk Matrix:  
-**Risk Description	 ---       Probability	---Impact	---Quadrant**  
-   Delay in Software Release|	     3|	    4	  |      High  
-   Overbudget	              |      2	|    5	  |      Medium  
-   Data Breach               | 	  4	|    5	   |     High  
-   Low User Adoption	        |      2	|    3	   |     Medium  
-   Technical Debt            |      4	|    4    |    	High  
+|**Risk Description	    |    Probability	|Impact|	Quadrant**  |
+|--------------------------|---------------|-------|-------------|
+|   Delay in Software Release|	     3|	    4	  |      High  |
+|   Overbudget	              |      2	|    5	  |      Medium  |
+ |  Data Breach               | 	  4	|    5	   |     High  |
+ |  Low User Adoption	        |      2	|    3	   |     Medium  |
+ |  Technical Debt            |      4	|    4    |    	High  |
 ## Analysis:
 #### High Priority (High Probability/High Impact):
 
